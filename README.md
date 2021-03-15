@@ -1,5 +1,5 @@
 # GuidedProjects
-These are the few guided projects done by me onn the Coursera platform
+These are the few guided projects done by me on the Coursera platform
 ## Pet-Profiler Java Applet Project
 
 In this guided project I was supposed to make few changes in the given program to display an applet and when values entered like name and age in human years we can tell how old the respective pet is along with its name.
@@ -15,3 +15,5 @@ The answer we are looking for in this guided project is whether there is any rel
 I worked with covid-19 csv file provided by John Hopkin's University and WorldHappiness data provided by United Nations
 
 Pre-requisite knowledge about- Programming languge like Python or R, Jupyter notebook.
+
+Result- Developed Countries have more corona cases registered than under developed countries it can be due to the unavailability of test kits during the start of the pandemic
