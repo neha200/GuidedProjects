@@ -6,4 +6,4 @@ In this guided project I was supposed to make few changes in the given program t
 
 ## COVID19 Data Analysis using Python
 
-in this Course we worked with COVID19 dataset, published by John Hopkins University, which consists of the data related to cumulative number of confirmed cases, per day, in each Country. Also, another dataset consisting of various life factors, scored by the people living in each country around the globe. Then these two datasets are merged to see if there is any relationship between the spread of the the virus in a country and how happy people are, living in that country. 
+In this guided-project we worked with COVID19 dataset, published by John Hopkins University, which consists of the data related to cumulative number of confirmed cases, per day, in each Country. Also, another dataset consisting of various life factors, scored by the people living in each country around the globe. Then these two datasets are merged to see if there is any relationship between the spread of the the virus in a country and how happy people are, living in that country. 
